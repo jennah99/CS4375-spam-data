@@ -1,6 +1,7 @@
 # SMS Spam Detection Using a From-Scratch LSTM
 
 **Course:** Machine Learning (CS 4375) — The University of Texas at Dallas
+
 **Group Members:**
 
 * Jennah Shahein (JXS220148)
